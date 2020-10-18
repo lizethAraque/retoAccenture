@@ -11,6 +11,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 IDE de java, se recomienda Intellij community 
 Descargar POSTMAN 
 Importar la colleccion [Collection](https://drive.google.com/drive/folders/1kijP9f6EHUZXZ_2eHSxwZdjBiAr0oojb?usp=sharing)
+```
 
 ### Instalación 🔧
 
@@ -43,5 +44,3 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Lizeth Araque** -  [Lizeth Araque](https://start.spring.io/)
-
-
