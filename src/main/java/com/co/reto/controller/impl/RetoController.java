@@ -65,7 +65,17 @@ public class RetoController {
         } catch (Exception e) {
             return new ResponseEntity<String>("Se presentaron problemas tecnicos  para  eliminar los datos", HttpStatus.INTERNAL_SERVER_ERROR);
         }
+    }
 
+    @ApiOperation(value = "/get/Total")
+    @RequestMapping(value = "/get/Total", method = RequestMethod.POST, produces = MediaType.APPLICATION_JSON_VALUE)
+    public ResponseEntity<String> getTotal() {
+        try {
+            return new ResponseEntity<String>(servicio.getTotal(), HttpStatus.OK);
+
+        } catch (Exception e) {
+            return new ResponseEntity<String>("Se presentaron problemas tecnicos para obtener los datos", HttpStatus.INTERNAL_SERVER_ERROR);
+        }
     }
 }
 

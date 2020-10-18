@@ -6,6 +6,7 @@ public class CategoryModel {
     private String identification;
     private String initdate;
     private String productname;
+
     private int value;
 
     public String getCategory() {
