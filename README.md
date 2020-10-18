@@ -34,6 +34,6 @@ _Se ejecutaron 2 pruebas con JunitTest sobre la clase CollectionModel las cuales
 
 ## Autores ✒️
 
-* **Lizeth Araque** -  [Lizeth Araque](https://start.spring.io/)
+* **Lizeth Araque** -  [Lizeth Araque](https://github.com/lizethAraque)
 
 
