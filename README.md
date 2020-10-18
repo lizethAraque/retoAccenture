@@ -5,11 +5,11 @@ El proyecto consta de cincos microservicios (get, post, put, delete, getTotal) l
 
 ### Pre-requisitos 📋
 
-```
+
 IDE de java, se recomienda Intellij community 
 Descargar POSTMAN 
 Importar la colleccion [Collection](https://drive.google.com/drive/folders/1kijP9f6EHUZXZ_2eHSxwZdjBiAr0oojb?usp=sharing)
-```
+
 
 ### Instalación 🔧
 
