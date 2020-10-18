@@ -6,6 +6,6 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 public interface IServiceRetoIntegration {
 
     public String getData();
-    public String deleteData();
+    public String deleteData(CategoryModel categoryModel)throws JsonProcessingException;
     public String putData(CategoryModel[] categoryModel) throws JsonProcessingException;
 }
